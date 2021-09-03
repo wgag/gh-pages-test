@@ -1,0 +1,6 @@
+[bibliography]
+== Bibliography
+
+* [[[bib1,1]]] Some reference 1
+
+* [[[bib2,2]]] Some reference 2

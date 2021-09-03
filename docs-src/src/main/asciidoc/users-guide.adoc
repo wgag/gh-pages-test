@@ -1,0 +1,30 @@
+= Sample User's Guide
+:authors: Contributors to the project
+:license: Some License
+:doctype: book
+:!version-label:
+:toc: left
+:toclevels: 3
+:sectnumlevels: 4
+:sectanchors:
+:nofooter:
+:stem:
+:source-highlighter: coderay
+ifdef::backend-pdf[]
+:pagenums:
+:numbered:
+endif::[]
+
+:!sectnums:
+
+include::chapters/_foreword.adoc[]
+
+:sectnums:
+
+include::chapters/_introduction.adoc[]
+
+include::chapters/_development.adoc[]
+
+include::chapters/_appendix-examples.adoc[]
+
+include::chapters/_bibliography.adoc[]

@@ -1,0 +1,16 @@
+[appendix]
+[[examples]]
+== List of examples
+
+.Some table
+[%autowidth]
+|===
+|Example program |Description
+
+|hello-servlet
+|A simple servlet application
+
+|hello-ejb
+|A simple enterprise bean application
+|===
+
