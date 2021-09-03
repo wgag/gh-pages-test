@@ -1,6 +1,13 @@
-## Welcome to GitHub Pages
+## Links
 
 Website is hosted at https://wgag.github.io/gh-pages-test/
+
+Documentation
+
+* HTML: [users-guide.html](/users-guide.html)
+* PDF: [users-guide.pdf](/users-guide.pdf)
+
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/wgag/gh-pages-test/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
