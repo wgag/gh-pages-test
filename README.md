@@ -4,8 +4,8 @@ Website is hosted at https://wgag.github.io/gh-pages-test/
 
 Documentation
 
-* HTML: [users-guide.html](/users-guide.html)
-* PDF: [users-guide.pdf](/users-guide.pdf)
+* HTML: [users-guide.html](users-guide.html)
+* PDF: [users-guide.pdf](users-guide.pdf)
 
 ## Welcome to GitHub Pages
 
